@@ -1,6 +1,6 @@
 # Online-Fraud-Detection
 
-The Jupyter Notebook explores techniques for online fraud detection using a credit card transaction dataset. It covers:
+The jupyter notebook explores techniques for online fraud detection using a credit card transaction dataset. It covers:
 
 Data Loading and Exploration: Loads the dataset and visualizes transaction type distribution.
 Data Cleaning: Removes potentially sensitive or irrelevant columns.
