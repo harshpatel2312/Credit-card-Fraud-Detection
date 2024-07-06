@@ -17,4 +17,4 @@ The jupyter notebook explores techniques for online fraud detection using a tran
 
 ## Dataset
 - **[Link to Kaggle](https://www.kaggle.com/datasets/ealaxi/paysim1)**  
-- **[Download Dataset](https://www.kaggle.com/datasets/ealaxi/paysim1)**  
+- **[Download Dataset](https://www.kaggle.com/ealaxi/paysim1/download)**  
