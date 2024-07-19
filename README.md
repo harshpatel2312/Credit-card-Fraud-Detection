@@ -1,10 +1,22 @@
 # Online-Fraud-Detection
 
-The jupyter notebook explores techniques for online fraud detection using a transactions dataset. It covers:
-- **Data Loading and Exploration**: Loads the dataset and visualizes transaction type distribution.
-- **Data Cleaning**: Removes potentially sensitive or irrelevant columns.
-- **Correlation Analysis**: Analyzes relationships between features and the "isFraud" label.
-- **Machine Learning Model Training**: Splits data into training and testing sets 
+In today's digital age, online transactions are increasingly becoming targets for fraudulent activities. To address this critical issue, I embarked on a project to develop a robust machine learning model capable of identifying fraudulent transactions with high accuracy. This project combines data analysis, visualization, and machine learning techniques to tackle online fraud effectively.
+
+## Objective:
+The project aimed to build a machine learning model which can identify a fraudulent transaction.
+
+## Methodology:
+- Utilized a publicly available dataset from Kaggle which contained credit card transactions.
+- Utilized advanced statistical methods and Python libraries (Pandas, NumPy) to clean, process, and analyze large datasets, identifying key trends and patterns.
+- Created interactive visualizations of the dataset using Plotly.
+- Identified correlation between various features of the dataset.
+- Built and evaluated machine learning model (Decision Tree) using scikit-learn to predict future fraud in online transactions.
+
+## Results:
+- Model performed with an accuracy of 99.97%.
+
+## Conclusion:
+Model accurately identified various new transactions as fraudulent or not, based on the data it was fed with..
 
 
 ## Technologies 
