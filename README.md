@@ -1,6 +1,6 @@
-# Online-Fraud-Detection
+# Credit-card-Fraud-Detection
 
-In today's digital age, online transactions are increasingly becoming targets for fraudulent activities. To address this critical issue, I embarked on a project to develop a robust machine learning model capable of identifying fraudulent transactions with high accuracy. This project combines data analysis, visualization, and machine learning techniques to tackle online fraud effectively.
+In today's digital age, credit card transactions are increasingly becoming targets for fraudulent activities. To address this critical issue, I embarked on a project to develop a robust machine learning model capable of identifying fraudulent transactions with high accuracy. This project combines data analysis, visualization, and machine learning techniques to tackle online fraud effectively.
 
 ## Objective:
 The project aimed to build a machine learning model which can identify a fraudulent transaction.
